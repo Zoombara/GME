@@ -1,2 +1,118 @@
-# GME
-Price predictions and supporting charts and data for GME
+## Theory
+
+In this theory I noticed downward trendlines forming through the linear charts that upon reaching $0 would correspond with a higher than usual volume and typically a local high in price. In addition I had also noticed an algorithmic pattern. My estimates had consistently been early but I continued to watch and collect data and compiled some of the results here.
+
+As the year progressed I have gained a better understanding of the system, perhaps enough to lead into a RICO investigation for what is systemic market manipulation and fraud.
+
+The data and analytics show a level of structure and consistency over a period of many years. It showcases that nearly any movement trend or key peak/valley can be aligned with points in a fractal pattern that an algo is drawing.
+
+I hope to share this so that others may validate on their own.
+Be good, do good. Don't be evil.
+
+> [!IMPORTANT]
+>Disclaimer: The following predictive model is derived entirely from public historical ticker data, open-source volume metrics, and independent mathematical charting via TradingView. I possess no Material Non-Public Information (MNPI), have zero insider connections, and am executing this research entirely independently.
+
+Possible timeline and approximate price: ( only rough estimates and subject to change now that the cat in this experiment is being observed )
+
+Algo based timeline and approximate price:
+|Seq # |	Date |	Estimated Price*|
+|-------|-----|------------|
+|1 	| 6/25 	|21.5|
+|2 	| 6/25 	|21|
+|3 	| 6/26 	|22|
+|4 	| 7/1 	|23.2|
+|20 | 	7/7 |	23.30|
+|	| 7/8 	|23|
+|	| 7/13 	|30.5|
+|	| 7/14 	|22.5|
+|	| 7/15 	|28.8|
+|	| 7/17 	|30|
+|	| 7/20 	|->26.75-->29.5|
+|	| 7/23 	|22.5|
+|	| 7/24 	|24|
+|	| 7/27 	|22|
+|	| 7/28 	|23.5|
+|	| 7/29 	|21.5|
+|	| 8/3 	|25.75|
+|	| 8/4 	|22.5|
+|	| 8/7 	|24.8|
+|	| 8/12 	|21.5|
+|	| 8/13 	|22.15|
+|	| 8/19 	|20.5|
+|	| 8/24 	|21|
+|32 | 	8/28| 	23.75|
+|	| 9/3 	|Up|
+|	| 9/9 	|Up|
+|33 | 	9/15| 	28|
+|	| 9/18 	|25|
+|34 |	9/22| 	30.5|
+|Here |	After |	UP!!!!|
+|36 |	12/23 |	BIG UP!!!!!!|
+|	| 12/28 |	BIG UP!!!!!!|
+|37 |	1/5 |	Low|
+|	|1/6 |	UP!!!!!|
+|	|1/21| 	Low|
+|38 |	1/22 |	UP!!!!!|
+|1 	|2/8 |	MOASS|
+
+*-Prices are flexible, look to the log chart and past pattern to estimate as dates get closer. In parenthesis is a possible alternate price path.
+
+If they repeat again... well I guess 'we'll see'. 
+
+
+
+## Charts
+
+![](/LogChart10yr.png)
+GME Log Chart 10yr
+
+![](/LogChart5yr.png)
+GME Log Chart 5yr
+
+![](/LogChart2yr%20Zoom.png)
+GME Log Chart 2yr w Forecast
+
+![](/LinearForecast.png)
+GME Linear Forecast
+
+See [TradingView](https://www.tradingview.com/chart/MP70I2Rz/) for Linear charting. Best viewed in dark theme and at 5-15m granularities.
+
+## Algo Pattern
+
+Many in the GME communities have noticed patterns, sometimes repeating, and going back for years. Last year I noticed the pattern on a larger scale and decided to try and number the sequences that repeat and stand out in a follow by numbers kind of way. I have since revised the pattern and is seen below.
+
+The first 31 sequences of the pattern seem to correspond to the volatility period and 32-38 are the suppression period. This is best seen on TradingView where the flattest lines coming in are from Swap Line Nexus (SLN) 1, the moderately slanted lines are from SLN 2 and the steepest lines are from SLN 3. As seen from Oct-Jan SLN 1 & 2 acted as price suppressors and loaded up with volume, the corresponding exit dates (price reaches $0) create the high and low patterns from Now-Dec.
+
+With each cycle a new SLN is created at sequence 28 and comes online shortly thereafter to provide a new means of price suppression. These SLNs form a parallel line in log charts to the first (1/21) and second (5/24) peaks, which I believe hit the top boundary of the pattern.
+
+These SLNs interact with the price in a self-similar way through the linear charts. Taking a swap line from each SLN and terminating them at the same date reveals this similarity with minimal deviation attributable to market dynamics.
+
+Swap Line Nexus data to repro yourself:
+
+* 6/10/2020 @ $231.97
+* 6/13/2023 @ $131.50
+* 5/27/2025 @ $90.94
+* 7/8/2026 @ $73.75
+* 8/3/2026 @ ? *
+
+\* - SLN 1 formed with the last cycle of the previous series, SLN 5 likely fills the same roll this go around. Price likely much higher and will need data from end of this year to triangulate.
+
+Using a platform like TradingView you can place one end of a line at these points and the other end at $0. The more the price interacts with the line, particularly in a suppressing fashion, the greater the outlet. I've noticed that with each new cycle the lines coming from the SLNs act in a self-similar way. For example, suppression from SLN 1 to a particular date, is also seen through SLN 2 and SLN 3, and likewise breakouts after passing a self-similar line. Using the pattern as a guide you can estimate what number in the sequence you are looking for as the pattern, so far, always repeats. I like to view the log chart as the bones that the algo follows, and I view the linear charts as the meat and flesh for how it gets it done.
+
+On the Log charts you can see structure lines coming from the SLNs and terminate at what I believe is the floor for this series ~$10. Meanwhile the cycle peaks create a fan through the log charts that when terminated at ~$.20 at the remaining cycles dates also create structure lines.
+
+I posit that a non-manipulated stock would not exhibit such level of structure and for what seems to predate the 1/21 sneeze.
+
+
+![](/AlgoPattern.png)
+Algo Pattern
+
+## State of the Model & Official Disclaimer
+
+For the historical and regulatory record: To anyone or any entity reviewing this timeline, the predictive models, sequence timelines, and swap-line charts detailed in this post are the result of 100% independent quantitative analysis.
+
+1. Purely Public Data: My methodology relies exclusively on publicly available historical ticker data, open-source volume metrics, and independent manual charting via TradingView. The foundational data points anchoring my structural models date back years, originating from the true macro peak in January 2021.
+
+2. No Insider Information: I possess absolutely zero Material Non-Public Information (MNPI). I have no insider connections, no institutional data feeds, and no relationships with market makers or clearing houses. This entire predictive matrix is the product of my own eyes, mathematics, and relentless trial-and-error backtesting.
+
+3. Intent & RICO Implications: My mentions of systemic fraud, cellar-boxing, and potential RICO violations are my direct, data-driven conclusions regarding algorithmic market abuse. My intent in maintaining this public ledger is not to induce retail buying, trigger a short squeeze, or financially manipulate the asset. This is a public documentation of a deterministic, predatory algorithm. I believe in free, fair, and transparent markets, and I am leaving this immutable trail so that regulatory bodies and other mathematicians can independently validate the fraud I have tracked.
