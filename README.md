@@ -15,7 +15,7 @@ Be good, do good. Don't be evil.
 Possible timeline and approximate price: ( only rough estimates and subject to change now that the cat in this experiment is being observed )
 
 Algo based timeline and approximate price:
-|Seq # |	Date |	Estimated Price*|
+|Seq # |	Date |	Estimated Price*|Notes|
 |-------|-----|------------|------|
 |1 	| 6/25 	|21.5||
 |2 	| 6/25 	|21||
