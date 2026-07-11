@@ -16,44 +16,58 @@ Possible timeline and approximate price: ( only rough estimates and subject to c
 
 Algo based timeline and approximate price:
 |Seq # |	Date |	Estimated Price*|
-|-------|-----|------------|
-|1 	| 6/25 	|21.5|
-|2 	| 6/25 	|21|
-|3 	| 6/26 	|22|
-|4 	| 7/1 	|23.2|
-|20 | 	7/7 |	23.30|
-|38	| 7/8 	|23|
-|1	| 7/13 	|30.5|
-|2	| 7/14 	|22.5|
-|3	| 7/15 	|28.8|
-|17	| 7/17 	|30|
-|18/19/20	| 7/20 	|->26.75-->29.5|
-|23	| 7/23 	|22.5|
-|24	| 7/24 	|24|
-|25	| 7/27 	|22|
-|26	| 7/28 	|23.5|
-|27	| 7/29 	|21.5|
-|28	| 8/3 	|25.75|
-|	| 8/4 	|22.5|
-|	| 8/7 	|24.8|
-|	| 8/12 	|21.5|
-|	| 8/13 	|22.15|
-|	| 8/19 	|20.5|
-|	| 8/24 	|21|
-|32 | 	8/28| 	23.75|
-|	| 9/3 	|Up|
-|	| 9/9 	|Up|
-|33 | 	9/15| 	28|
-|	| 9/18 	|25|
-|34 |	9/22| 	30.5|
-|Here |	After |	UP!!!!|
-|36 |	12/23 |	BIG UP!!!!!!|
-|	| 12/28 |	BIG UP!!!!!!|
-|37 |	1/5 |	Low|
-|	|1/6 |	UP!!!!!|
-|	|1/21| 	Low|
-|38 |	1/22 |	UP!!!!!|
-|1 	|2/8 |	MOASS|
+|-------|-----|------------|------|
+|1 	| 6/25 	|21.5||
+|2 	| 6/25 	|21||
+|3 	| 6/26 	|22||
+|4 	| 7/1 	|23.2||
+|20 | 	7/7 |	23.30||
+|38	| 7/8 	|23||
+|1	| 7/14 	|30.5||
+|2	| 7/14 	|24|Possibly early 7/15 ~2hrs into trading|
+|3	| 7/15 	|28.8||
+|13	| 7/16 	|24.5||
+|17	| 7/17 	|29.25||
+|18/19/20	| 7/20 	|29.6||
+|23	| 7/23 	|22.5||
+|24	| 7/24 	|25.25||
+|25	| 7/27 	|23.8|May drop to 22.75|
+|26	| 7/28 	|24.8||
+|27	| 7/29 	|22.15||
+|	| 7/31 	|26||
+|28	| 8/3 	|27.5 --> 23|May be a highly volatile day, slams down to 23 by close. SLN 5 forms|
+|	| 8/4 	|23.75||
+|	| 8/7 	|25.75||
+|	| 8/12 	|22.4||
+|	| 8/13 	|24||
+|	| 8/17 	|21.7|Last best buy. Only up trend from here. Doubling by Jan|
+|	| 8/21 	|24.4||
+|	| 8/24 	|22.5||
+|32 | 	8/28|24.75|Possible jump to 28|
+|	| 9/3 	||Up|
+|	| 9/9 	||Up|
+|33 | 	9/15|28||
+|	| 9/18 	|25.5||
+|34 |	9/22|30.5||
+|	| 9/25 	|28||
+|Here |	After |	UP!!!!||
+|	| 10/12	|30||
+|	| 10/13 	|33.5|May be a highly volatile day, slams down to 30.25 by close|
+|	| 10/14 	|34.8|Possibly spikes to 34.8 *May not form|
+|	| 10/16 	|32.5||
+|	| 10/19 	|35.1|Possibly spikes to 35.1 *May not form|
+|	| 10/21 	|33||
+|	| 10/27 	|35.5||
+|	| 11/4 	|30||
+|	| 12/8 	|37.6||
+|	| 12/14 	|31.8||
+|36 |	12/23 |	42.5|BIG UP!!!!!!|
+|	| 12/24 	|39||
+|	| 12/28 |	42.4|BIG UP!!!!!!|
+|37 |	1/5 |	37.5|Low|
+|	|1/6 |	39.25|UP!!!!!|
+|38 |	1/22 |	UP!!!!!|HUGE UP!!!!!|
+|1 	|2/8 |	UP!!!!!UP!!!!!|GARGANTUAN UP!!!!!|	
 
 *-Prices are flexible, look to the log chart and past pattern to estimate as dates get closer. In parenthesis is a possible alternate price path.
 
@@ -71,6 +85,9 @@ GME Log Chart 5yr
 
 ![](/LogChart2yr%20Zoom.png)
 GME Log Chart 2yr w Forecast
+
+![](/LogChartForecastOnly.png)
+GME Log Chart Forecast
 
 ![](/LinearForecast.png)
 GME Linear Forecast
