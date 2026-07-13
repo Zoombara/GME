@@ -129,6 +129,10 @@ If they repeat again... well I guess 'we'll see'.
 ![](/LinearForecastNextSeries.png)
 GME Linear Forecast - Next Series of Cycles 1/27-10/32
 
+## Thoughts
+I believe I understand at a high level what the algo does. I would say this is an entity being very fraudulent in the market. Likely a market maker or someone similarly capable to utilize mechanisms not available to retail or other institutions and at scale. I would argue the way this is implemented, and more specifically this pattern, is predatory and designed to cellar box. DEF NOT natural price movements, and does not resemble a 'neutral' pattern as this one is designed to keep as much purchase pressure out of the market at any given time and bound in swaps or other mechanism. The algo creates a controlled pattern that the facilitator can front run or inside trade. Further, it price constrains any and all volume to the pattern it creates, any anomalies are either by design (as a way to offload swaps) or quickly rectified with halts, and over time it forces the price into a preconceived wedge and then repeats. The only time this pattern is not predatory is during the 'uncontrolled' regions between the series of cycles, such as 9/2020-1/2021, this year 9/2026-2/2027 and possibly 5/32-10-32.
+I believe this is going on for many years and predates the January sneeze. I have seen this pattern in other stocks, Oracle, Tesla, Netflix among them. Though I have not done any deep analysis of those stocks. As such I believe this is evidence of complicit regulatory bodies. Fills me with disgust. Thinking about this being one of the ways politicians are so 'good' at stocks (ie. bribed with info), in a rigged casino the owner can let  you know when the payout is coming and to start playing. Especially if the casino owner's losses is the rest of America, so a little greasing the wheels wouldn't be a biggie to them.
+
 ## State of the Model & Official Disclaimer
 
 For the historical and regulatory record: To anyone or any entity reviewing this timeline, the predictive models, sequence timelines, and swap-line charts detailed in this post are the result of 100% independent quantitative analysis.
