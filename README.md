@@ -69,7 +69,7 @@ Algo based timeline and approximate price:
 |38 |	1/22 |	UP!!!!!|HUGE UP!!!!!|||
 |1 	|2/8 |	UP!!!!!UP!!!!!|GARGANTUAN UP!!!!!|||	
 
-*-Prices are flexible, look to the log chart and past pattern to estimate as dates get closer. In parenthesis is a possible alternate price path.
+*-Prices are flexible, look to the log chart and past pattern to estimate as dates get closer. In parenthesis is a possible alternate price path.  
 1-The reason the market gives as cover for deterministic price movement.
 
 If they repeat again... well I guess 'we'll see'. 
