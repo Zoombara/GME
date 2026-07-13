@@ -130,8 +130,20 @@ If they repeat again... well I guess 'we'll see'.
 GME Linear Forecast - Next Series of Cycles 1/27-10/32
 
 ## Thoughts
+
+> [!IMPORTANT]
+> This section contains my personally held thoughts and opinions. It is not intended as a direct accusation towards any individual, institution, or governing body. It reflects the level of pessimism and rancor I have from staring into the abyss.
+
 I believe I understand at a high level what the algo does. I would say this is an entity being very fraudulent in the market. Likely a market maker or someone similarly capable to utilize mechanisms not available to retail or other institutions and at scale. I would argue the way this is implemented, and more specifically this pattern, is predatory and designed to cellar box. DEF NOT natural price movements, and does not resemble a 'neutral' pattern as this one is designed to keep as much purchase pressure out of the market at any given time and bound in swaps or other mechanism. The algo creates a controlled pattern that the facilitator can front run or inside trade. Further, it price constrains any and all volume to the pattern it creates, any anomalies are either by design (as a way to offload swaps) or quickly rectified with halts, and over time it forces the price into a preconceived wedge and then repeats. The only time this pattern is not predatory is during the 'uncontrolled' regions between the series of cycles, such as 9/2020-1/2021, this year 9/2026-2/2027 and possibly 5/32-10-32.
+
 I believe this is going on for many years and predates the January sneeze. I have seen this pattern in other stocks, Oracle, Tesla, Netflix among them. Though I have not done any deep analysis of those stocks. As such I believe this is evidence of complicit regulatory bodies. Fills me with disgust. Thinking about this being one of the ways politicians are so 'good' at stocks (ie. bribed with info), in a rigged casino the owner can let  you know when the payout is coming and to start playing. Especially if the casino owner's losses is the rest of America, so a little greasing the wheels wouldn't be a biggie to them.
+
+On Market Narrative and "News" Events:
+A core component of this thesis is that fundamental market news acts as a lagging indicator, utilized primarily as narrative cover for deterministic algorithmic execution. Based on the structural constraints mapped in these logs, I hypothesize that major corporate announcements, earnings volatility, or sudden macroeconomic shifts are systematically timed to coincide with these pre-calculated algorithmic liquidity nodes.
+
+To maintain the strict mathematical integrity of this model and avoid any mischaracterization of possessing Material Non-Public Information (MNPI), I do not attempt to forecast specific corporate actions or geopolitical events in advance. The dates and price targets listed in this repository are derived purely from structural market mechanics.
+
+I will let the price action print according to these mathematical boundaries. Any corresponding media narratives or corporate events that are suddenly announced precisely on these structural pivot dates will be logged post-facto in the "Reason Given" column. This will serve as correlative evidence demonstrating that mainstream market "news" is often merely the theater used to justify pre-determined algorithmic physics to the public.
 
 ## State of the Model & Official Disclaimer
 
