@@ -66,12 +66,12 @@ Algo based timeline and approximate price: ( only rough estimates and subject to
 
 |Seq # |Date|Est. Price<sup>*</sup>|Notes|Act. Price|Reason Given<sup>1</sup>|
 |-----|-----|----|------|----|------|
-|1 	| 6/25 	|21.5||||
-|2 	| 6/25 	|21||||
-|3 	| 6/26 	|22||||
-|4 	| 7/1 	|23.2||||
-|20 | 	7/7 |	23.30||||
-|38	| 7/8 	|23||||
+|1 	| 6/25 	|||21.41||
+|2 	| 6/25 	|||20.93||
+|3 	| 6/26 	|||21.85||
+|4 	| 7/1 	|||22.75||
+|20 | 7/7 	|||22.89||
+|38	| 7/8 	|||22.11||
 |1	| 7/14 	|30.5||||
 |2	| 7/14 	|24|Possibly early 7/15 ~2hrs into trading|||
 |3	| 7/15 	|28.8||||
