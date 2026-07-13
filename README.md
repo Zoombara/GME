@@ -124,7 +124,7 @@ Algo based timeline and approximate price: ( only rough estimates and subject to
 
 If they repeat again... well I guess 'we'll see'. 
 
-## Bonus Series Prediction
+## Next Series Prediction
 
 ![](/LinearForecastNextSeries.png)
 GME Linear Forecast - Next Series of Cycles 1/27-10/32
