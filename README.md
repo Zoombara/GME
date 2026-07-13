@@ -43,11 +43,10 @@ These SLNs interact with the price in a self-similar way through the linear char
 
 Swap Line Nexus data to repro yourself:
 
-* 6/10/2020 @ $231.97
-* 6/13/2023 @ $131.50
-* 5/27/2025 @ $90.94
-* 7/8/2026 @ $73.75
-* 8/3/2026 @ ? *
+* SLN 1: 6/10/2020 @ $231.97
+* SLN 2: 6/13/2023 @ $131.50
+* SLN 3: 5/27/2025 @ $90.94
+* SLN 4: 7/8/2026 @ $73.75
 
 \* - SLN 1 formed with the last cycle of the previous series, SLN 5 likely fills the same roll this go around. Price likely much higher and will need data from end of this year to triangulate.
 
@@ -125,6 +124,13 @@ Algo based timeline and approximate price: ( only rough estimates and subject to
 If they repeat again... well I guess 'we'll see'. 
 
 ## Next Series Prediction
+
+Swap Line Nexus data to repro yourself:
+
+* SLN 1: 8/3/2026 @ $200.00
+* SLN 2: 1/27/2028 @ $136.25
+* SLN 3: 3/15/2030 @ $89.20
+* SLN 4: 11/26/2031 @ $63.63
 
 ![](/LinearForecastNextSeries.png)
 GME Linear Forecast - Next Series of Cycles 1/27-10/32
