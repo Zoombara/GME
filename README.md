@@ -72,21 +72,19 @@ Algo based timeline and approximate price: ( only rough estimates and subject to
 |4 	| 7/1 	|||22.75||
 |20 | 7/7 	|||22.89||
 |38	| 7/8 	|||22.11||
-|1	| 7/14 	|30.5||||
-|2	| 7/14 	|24|Possibly early 7/15 ~2hrs into trading|||
-|3	| 7/15 	|28.8||||
-|13	| 7/16 	|24.5||||
-|17	| 7/17 	|29.25||||
-|18-20	| 7/20 	|29.6||||
-|23	| 7/23 	|22.5||||
-|24	| 7/24 	|25.25||||
-|25	| 7/27 	|23.8|May drop to 22.75|||
-|26	| 7/28 	|24.8||||
-|27	| 7/29 	|22.15||||
-|	| 7/31 	|26||||
-|28	| 8/3 	|27.5 --> 23|May be a highly volatile day, slams down to 23 by close. SLN 5 forms|||
-|	| 8/4 	|23.75||||
-|	| 8/7 	|25.75||||
+|1	| 7/15 	|30.5||||
+|2	| 7/15 	|24|Possibly early 7/16 ~2hrs into trading|||
+|3	| 7/16 	|28.8|Mid day|||
+|13	| 7/17 	|24.5||||/
+|17-18	| 7/20 	|29||||
+|19-20	| 7/21 	|29.5||||
+|23	| 7/24 	|22.5||||
+|24	| 7/27 	|24.8||||
+|25	| 7/28 	|23.5|May drop to 22.75|||
+|26	| 7/29 	|24.7||||
+|27	| 7/30 	|23||May drop to 22.50|||
+|28	| 8/4 	|27.5 --> 23|May be a highly volatile day, slams down to 23 by close. SLN 5 forms|||
+|	| 8/6 	|25.75||||
 |	| 8/12 	|22.4||||
 |	| 8/13 	|24||||
 |	| 8/17 	|21.7|Last best buy. Only up trend from here. Doubling by Jan|||
