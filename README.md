@@ -75,7 +75,7 @@ Algo based timeline and approximate price: ( only rough estimates and subject to
 |1	| 7/15 	|30.5||||
 |2	| 7/15 	|24|Possibly early 7/16 ~2hrs into trading|||
 |3	| 7/16 	|28.8|Mid day|||
-|13	| 7/17 	|24.5||||/
+|13	| 7/17 	|24.5||||
 |17-18	| 7/20 	|29||||
 |19-20	| 7/21 	|29.5||||
 |23	| 7/24 	|22.5||||
@@ -126,9 +126,9 @@ If they repeat again... well I guess 'we'll see'.
 Swap Line Nexus data to repro yourself:
 
 * SLN 1: 8/3/2026 @ $200.00
-* SLN 2: 1/27/2028 @ $136.25
-* SLN 3: ~7/8/2030 @ $89.20
-* SLN 4: ~2/23/2032 @ $63.63
+* SLN 2: 1/30/2028 @ $133.50
+* SLN 3: ~6/10/2030 @ $89.50
+* SLN 4: ~12/30/2031 @ $62.37
 
 ![](/LinearForecastNextSeries.png)
 GME Linear Forecast - Next Series of Cycles 1/27-10/32
