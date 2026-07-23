@@ -54,6 +54,8 @@ Using a platform like TradingView you can place one end of a line at these point
 
 On the Log charts you can see structure lines coming from the SLNs and terminate at what I believe is the floor for this series ~$10. Meanwhile the cycle peaks create a fan through the log charts that when terminated at ~$.20 at the remaining cycles dates also create structure lines.
 
+My thoughts are intra-series SLNs shape the day to day while previous series SLNs define boundaries for current series cycles. This can be seen from the previous series SLNs (11/2013, 3/2020) into this current series, and how this current series SLNs (6/2020, 6/2023, 5/2025, 7/2026) constrain the chart into the next series (2027-2032).
+
 I posit that a non-manipulated stock would not exhibit such level of structure and for what seems to predate the 1/21 sneeze.
 
 
@@ -72,26 +74,26 @@ Algo based timeline and approximate price: ( only rough estimates and subject to
 |4 	| 7/1 	|||22.75||
 |20 | 7/7 	|||22.89||
 |38	| 7/8 	|||22.11||
-|1	| 7/20 	|30||||
-|2	| 7/20 	|23.5||||
-|3	| 7/21 	|27.9|Mid day|||
-|13	| 7/22 	|24.5||||
-|17-18	| 7/23 	|28.5||||
-|19-20	| 7/24 	|28.75||||
-|23	| 7/28 	|21.75||||
-|24	| 7/29 	|24||||
-|25	| 7/30 	|22.50|May drop to 22.25|||
-|26	| 7/31 	|24.25||||
-|27	| 8/4 	|22.5|||||
-|28	| 8/5 	|26.5|May be a highly volatile day, slams down to 22.5 by next day. SLN 5 forms|||
-|	| 8/6 	|22.5||||
-|	| 8/10 	|25||||
-|	| 8/13 	|22||||
-|	| 8/14 	|23.5||||
-|	| 8/18 	|21.5|Last best buy. Only up trend from here. Doubling by Jan|||
-|	| 8/21 	|24||||
-|	| 8/24 	|22.5||||
-|32 | 	8/28|24.75|Possible jump to 27|||
+|1	| 7/28 	|28.5||||
+|2	| 7/28 	|23||||
+|3	| 7/29 	|26.5|Briefly|||
+|13	| 7/30 	|22.5|Early|||
+|17-18	| 7/30 	|27||||
+|19-20	| 7/31 	|27.25|Friday. 25 at close|||
+|23	| 8/4 	|20.5||||
+|24	| 8/5 	|22.25||||
+|25-26	| 8/6 	|20.75|22 at close|||
+|27	| 8/7 	|20.75|Friday||||
+|28	| 8/11 	|24.75|May be a highly volatile day, 21.75 by close. SLN 1 forms for next series|||
+|	| 8/12 	|23.5||||
+|	| 8/13 	|21.25|May be a highly volatile day|||
+|	| 8/14 	|21.15|Friday|||
+|	| 8/19 	|20|May drop to 19.25 at close. Last best buy. Only up trend from here. Doubling by Jan|||
+|	| 8/20 	|21||||
+|	| 8/21 	|20||||
+|	| 8/24 	|22.25||||
+|	| 8/25 	|21.25|Possibly 20.50 midday|||
+|32 | 	8/28|23.35|Friday. Possible jump to 25 early|||
 |	| 9/3 	||Up|||
 |	| 9/9 	||Up|||
 |33 | 	9/15|28||||
@@ -122,11 +124,19 @@ Algo based timeline and approximate price: ( only rough estimates and subject to
 
 If they repeat again... well I guess 'we'll see'. 
 
-## Next Series Prediction
+## Previous Series SLNs
 
 Swap Line Nexus data to repro yourself:
 
-* SLN 1: 8/3/2026 @ $200.00
+* SLN 1: 11/14/2013 @ $99.30
+* SLN 2: 3/27/2020 @ $29.80
+
+## Next Series Prediction
+
+Swap Line Nexus data to repro yourself: 
+This series will dial in as data forms.
+
+* SLN 1: 8/11/2026 @ $200.00
 * SLN 2: 1/30/2028 @ $133.50
 * SLN 3: ~6/10/2030 @ $89.50
 * SLN 4: ~12/30/2031 @ $66.50
